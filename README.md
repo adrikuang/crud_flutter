@@ -1,4 +1,4 @@
-# data_mhs
+# data_dsn
 
 Ini merupaakan tugas uas yang sudah selesai mengenai CRUD Flutter Data Dosen
 
